@@ -1,0 +1,793 @@
+[
+	{
+		"date": "-25,000 to -5,200",
+		"event": "Rise of the Old Republic",
+		"description": "The Old Republic is formed among the core worlds, and the Jedi Knights first appear. This is a long period of galactic peace and expansion instigated by the invention and advancement of hyperspace travel.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-25,000 to -5,200",
+		"event": "Birth of the Sith Empire",
+		"description": "A large contingent of Jedi Knights obsessed with the dark side of the Force is expelled from the Old Republic. After wandering for some time, they come across the humanoid beings known as the Sith and enslave the species. The dark siders then become known as the Lords of the Sith. For the next several thousand years, their empire will thrive and grow. During this time, the fallen Jedi also begin experimenting on their subjects, converting many Sith into deadly Massassi warriors.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-5,200 to -5,000",
+		"event": "Power Struggle of the Sith",
+		"description": "Sith rulers Marka Ragnos and Simus compete to become the new Dark Lord of the Sith. Marka decapitates Simus, although the vanquished warlord uses his knowledge of Sith magic to sustain his life for over a century. Meanwhile, Marka Ragnos takes control of the Sith Empire.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-5,000 to -4,990",
+		"event": "The Unification Wars",
+		"description": "With the aid of several Jedi, Empress Teta unifies the seven worlds of the Koros System, which will one day become known as the Empress Teta System in her honor.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-5,000 to -4,990",
+		"event": "The Great Hyperspace War",
+		"description": "Markas Ragnos, reigning Dark Lord of the Sith, finally dies and is succeeded by Naga Sadow. When the hyperspace explorers Gav and Jori Daragon unwittingly stumble across the remains of the ancient Sith Empire, Sadow sees the opportunity to expand the Sith Empire. After much treachery, he invades the Old Republic, but his armies are defeated by the combined forces of Empress Teta, the Old Republic fleet, and the Jedi Knights. Sadow and a host of his Massassi warriors flee to the far reaches of the universe, finally coming to rest on the fourth moon of Yavin. The Massassi begin building great temples in Sadow’s honor, while the Sith warlord begins experimenting on his followers, transforming them into bestial monstrosities.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,400 to -4,000",
+		"event": "The Beast Wars of Onderon",
+		"description": "Dark side adept, Freedon Nadd, takes control of the walled city of Iziz on the planet Onderon. Under his rule, dissidents are cast into the wild to be eaten by terrible beasts. However, these outcasts eventually band together and learn to survive in the wilderness by taming the marauding monsters. Once they have organized, the Beast Riders begin a long series of attacks on Iziz, which later become known as the Beast Wars of Onderon. The conflict rages for over four hundred years.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,398",
+		"event": "Freedon Nadd dies",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,068",
+		"event": "Amanoa, Queen of Iziz, is born on Onderon",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,018",
+		"event": "Beast Lord Oron Kira is born on Onderon",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,018",
+		"event": "Jedi Knights Ulic and Cay Qel-Droma are born",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,016",
+		"event": "Galia, future Queen of Iziz, is born",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,004",
+		"event": "Oss Wilum arrives on Ambria to train with Jedi Master Thon",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,002",
+		"event": "Onderon discovered by the Galactic Republic",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-4,000 to -3,999",
+		"event": "End of the Beast Wars",
+		"description": "Jedi Master Arca, Watchman of the recently discovered Onderon System, sends his Jedi apprentices to quell the violent Beast Wars. Under the leadership of Ulic Qel-Droma, the Jedi try to bring peace to Onderon but are continually thwarted by the evil powers of Queen Amanoa, a follower of the deceased Freedon Nadd. Eventually, the centuries-old conflict is ended by the arrival of Master Arca, the death of Queen Amanoa, and the marriage of the Beast Lord Oron Kira to Princess Galia.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-3,998",
+		"event": "The Freedon Nadd Uprising",
+		"description": "On Onderon, fanatic followers of the deceased dark sider Freedon Nadd instigate a civil war. These Naddists steal Nadd’s corpse, invade the walled city of Iziz, and kidnap Jedi Master Arca. It is later discovered that the Naddists are being led by King Ommin, whose ancient body has been sustained for decades by the dark side of the Force. Several Jedi Knights, including the Qel-Dromas and Nomi Sunrider, join forces to defeat the Naddists, kill the King, and ensure that the bodies of Nadd, Ommin, and Queen Amanoa are safely hidden on the hostile moon of Dxun. Unfortunately, during the uprising, dark side dabblers Aleema and Satal Keto, founders of the sect known as the Krath, are given magic Sith amulets by King Ommin and powerful Sith swords by the spirit of Freedon Nadd.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-3,996",
+		"event": "The Sith War",
+		"description": "Using their Sith artifacts, Krath leaders Aleema and Satal Keto usurp control of the Empress Teta System. Meanwhile, fallen Jedi Exar Kun is swayed toward the dark side by the spirit of Naga Sadow, and Jedi Knight Ulic Qel-Droma is converted to evil after he foolishly tries to infiltrate the Krath. Kun, Ulic, the warrior Mandalore, and the Krath join forces to take control of the galaxy and resurrect the ancient Sith Empire. They are violently opposed by hundreds of Jedi Knights. The subsequent Sith War is a terrible conflict in which many important historical figures are killed, including Cay Qel-Droma and Jedi Master Arca. As the war drags on, first Satal Keto and then Aleema are betrayed and murdered by their allies. In a final bid for power, Exar and Ulic invade Ossus, home of the ancient Jedi Library. On that peaceful world, Ulic confronts and slays his brother, Cay. Shortly after, Ulic is stripped of his connection to the Force by Nomi Sunrider. Bereft of Ulic’s leadership, Mandalore and his warriors are routed by the Old Republic’s army. The remaining Jedi Knights band together and succeed in banishing Exar Kun’s spirt to a realm of perpetual darkness on Yavin 4.",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-3,986",
+		"event": "Ulic Qel-Droma is redeemed",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-896",
+		"event": "Yoda is born",
+		"period": "Recent History"
+	},
+	{
+		"date": "-200",
+		"event": "Chewbacca is born on Kashyyyk",
+		"period": "Recent History"
+	},
+	{
+		"date": "-60",
+		"event": "Birth of Obi-Wan Kenobi",
+		"period": "Recent History"
+	},
+	{
+		"date": "-48",
+		"event": "Mon Mothma, future Senator and leader of the Alliance, is born on Chandrila",
+		"period": "Recent History"
+	},
+	{
+		"date": "-40",
+		"event": "Birth of Anakin Skywalker",
+		"period": "Recent History"
+	},
+	{
+		"date": "-32",
+		"event": "<i>Star Wars</i>: Episode I",
+		"period": "Recent History"
+	},
+	{
+		"date": "-29",
+		"event": "Han Solo is born in Corellian Star System",
+		"period": "Recent History"
+	},
+	{
+		"date": "-22",
+		"event": "<i>Star Wars</i>: Episode II",
+		"period": "Recent History"
+	},
+	{
+		"date": "-20 to -19",
+		"event": "<i>Star Wars</i>: Episode III",
+		"period": "Recent History"
+	},
+	{
+		"date": "-18",
+		"event": "Luke Skywalker is born",
+		"period": "Recent History"
+	},
+	{
+		"date": "-18",
+		"event": "Leia Skywalker is born",
+		"period": "Recent History"
+	},
+	{
+		"date": "-18",
+		"event": "Rise of the Emperor & the Birth of the Rebellion",
+		"description": "Senator Palpatine eventually elects himself Galactic Emperor. He takes complete control over the Republic, using fear and powerful henchmen such as Darth Vader to enforce his will. As the Empire becomes increasingly more oppressive, dissidents within the Senate join together to oppose the Emperor’s New Order. These factions will eventually form the Rebel Alliance.",
+		"period": "Recent History"
+	},
+	{
+		"date": "-18",
+		"event": "The Jedi Purge",
+		"description": "Under direct orders from the Emperor, Darth Vader hunts down and executes the last of the Jedi Knights. Obi-Wan Kenobi flees to Tatooine and remains in hiding to escape the mindless slaughter, while Jedi Master Yoda avoids Vader’s notice when he retires to the distant world of Dagobah.",
+		"period": "Recent History"
+	},
+	{
+		"date": "-10 to 0",
+		"event": "Early Exploits of Lando Calrissian",
+		"description": "Gambler Lando Calrissian travels the galaxy in search of fame and fortune. He recovers numerous valuable artifacts, rescues a strange alien species from the Empire’s control, wins a cache of credits playing sabacc, and manages to rout the pirates plaguing the world of Taanab. He eventually travels to Bespin and assumes control of the mining colony Cloud City. Although many of his early adventures are conducted in the <i>Millennium Falcon</i>, Lando ultimately loses the starship to Han Solo in a game of sabacc.",
+		"period": "Recent History"
+	},
+	{
+		"date": "-10 to 0",
+		"event": "Han Solo’s Early Adventures",
+		"description": "During his youth, Han Solo is entrenched in the galactic criminal underworld until he joins the Imperial Academy. He eventually becomes an Imperial officer, but is expelled from the military after rescuing the Wookiee Chewbacca from slavers. Together, the pair embark on a career as smugglers, often working for Lando Calrissian. After Han wins the <i>Millennium Falcon</i> from Lando in a game of sabacc, Solo and Chewbacca adventure throughout the Corporate Sector in search of their fortune. Shortly before the Battle of Yavin, they return to Imperial space and become involved with Jabba the Hutt. Unfortunately, while transporting a shipment of the crime lord's spice, they are boarded by Imperials and must dump the cargo. Jabba becomes enraged and places a bounty on Solo's head.",
+		"period": "Recent History"
+	},
+	{
+		"date": "-25,000 to -2,000",
+		"event": "Ancient History",
+		"period": "Ancient History"
+	},
+	{
+		"date": "-2,000 to 0",
+		"event": "Recent History",
+		"period": "Recent History"
+	},
+	{
+		"date": "0 to 4",
+		"event": "The Galactic Civil War",
+		"period": "Galactic Civil War"
+	},
+	{
+		"date": "0",
+		"event": "The Battle of Yavin",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Construction of the First Death Star",
+		"description": "Seeking to evoke terror and fear in all who dare to oppose the Empire, the Emperor orders the development of a massive space station with enough firepower to vaporize an entire planet. Once the Death Star is complete, Grand Moff Tarkin takes charge of the weapon.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Theft of the Death Star Plans",
+		"description": "Although the Death Star was constructed in complete secrecy, Rebel spies, aided by agent Kyle Katarn, manage to infiltrate the Empire’s central computers and steal the schematics for the space station. These plans are transmitted to Princess Leia, who intends to deliver them to the Rebel Alliance in the hopes that the Death Star's weakness can be discovered and exploited.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Capture of Princess Leia",
+		"description": "Pursuing the stolen Death Star plans, Darth Vader discovers Princess Leia’s involvement with the Rebellion. The Imperial Star Destroyer <i>Devastator</i> disables Leia’s consular ship, <i>Tantive IV</i>, and stormtroopers board the vessel. Moments before she is taken prisoner, Leia hides the secret schematics in the databanks of an astromech droid, R2-D2. She also instructs the droid to seek out an old war hero named Obi-Wan Kenobi.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "R2-D2’s Escape",
+		"description": "With his counterpart, C-3PO, Artoo flees the <i>Tantive IV</i> moments before Darth Vader orders the destruction of the starship. The droids, and the stolen Death Star plans, land on the desert world of Tatooine. Within hours, Artoo and Threepio are cornered by scavenging Jawas, who plan to sell the droids to local moisture farmers.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "R2-D2 & C-3PO Meet Luke Skywalker",
+		"description": "The Jawas sell Artoo and Threepio to Owen Lars. While cleaning the droids, Owen’s nephew, Luke Skywalker, discovers a portion of Princess Leia’s urgent message to Obi-Wan Kenobi. Soon after, Artoo flees into the desert in search of the hero.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Luke Encounters Obi-Wan Kenobi",
+		"description": "While in pursuit of the wayward R2-D2, Luke is attacked by vicious Sand People. He is rescued by an old hermit named Ben, who soon reveals himself to be Obi-Wan Kenobi. Obi-Wan informs Luke that Anakin Skywalker, Luke’s father, was a great Jedi Knight who was killed by the vile Darth Vader. He also presents Luke with Anakin’s lightsaber. After hearing Leia’s message, Obi-Wan urges Luke to aid him in his mission to deliver the Death Star plans to Alderaan, but Luke refuses to leave his uncle’s farm.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Abolition of the Imperial Senate",
+		"description": "Seeking still greater control over the universe, the Emperor disbands the Imperial Senate. He decrees that each sector of space will be controlled by a despotic regional governor, thus ensuring that his orders will be followed completely.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Murder of Owen & Beru Lars",
+		"description": "While searching for the escaped droids and the Death Star plans, Imperial stormtroopers butcher Luke’s aunt and uncle. Although he is greatly saddened by their deaths, Luke seizes the opportunity to leave Tatooine with Obi-Wan.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Luke & Obi-Wan Meet Han Solo & Chewbacca",
+		"description": "While searching for passage to Alderaan, Luke and Obi-Wan encounter the smuggler Han Solo and his Wookiee partner. Han agrees to transport the pair to their destination, although his price is steep.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Jabba the Hutt Confronts Han Solo",
+		"description": "After killing the bounty hunter Greedo, Solo is met by Jabba the Hutt, who demands payment for a lost shipment of spice. Han manages to convince the Hutt to extend him more time to gather the funds.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Destruction of Alderaan",
+		"description": "After Princess Leia refuses to reveal the location of the hidden Rebel base, Grand Moff Tarkin orders the complete destruction of Alderaan, Leia’s homeworld. This vile deed creates a massive disturbance in the Force so powerful that it is detected by Obi-Wan Kenobi on the other side of the galaxy.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Capture of the <i>Millennium Falcon</i>",
+		"description": "As Han Solo’s starship, the <i>Millennium Falcon</i>, nears the remains of Alderaan, the vessel is snared by the Death Star's tractor beam. The passengers conceal themselves in hidden compartments, normally used for smuggling, and elude the Imperials. Obi-Wan immediately sets out to disable the tractor beam to allow the group to escape.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Rescue of Princess Leia",
+		"description": "Han, Luke, and Chewbacca make a daring attempt to free Leia from her Imperial cell on the Death Star. Although they are almost captured numerous times, they are eventually successful and manage to return to the <i>Millennium Falcon</i>.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Death of Obi-Wan Kenobi",
+		"description": "In a terrible lightsaber battle aboard the Death Star, Obi-Wan Kenobi is struck down by Darth Vader. His sacrifice allows Luke and his allies to flee the battle station. After shedding his physical form, Obi-Wan becomes one with the Force.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "The Battle of Yavin",
+		"description": "Once reunited with Rebellion forces, Leia provides the Alliance leaders with the plans for the Death Star. Even as the Rebels study these schematics, the Death Star approaches, guided by a homing device hidden aboard Han Solo’s starship. However, the Rebels discover the Death Star's one weakness: A small thermal exhaust port. Luke joins the Rebel pilots in attacking the space station. In the ensuing conflict, numerous pilots are killed, including Luke's childhood friend, Biggs Darklighter.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Destruction of the Death Star",
+		"description": "Aided by the Force and the timely return of Han Solo, Luke Skywalker manages to launch two proton torpedoes into the Death Star's thermal exhaust port. The resulting chain reaction consumes the battle station, killing Grand Moff Tarkin and almost a million Imperials in the process. Darth Vader, however, escapes. After the Empire's defeat, Luke and Han are made officers within the Rebel Alliance.",
+		"period": "The Galactic Civil War: The Battle of Yavin"
+	},
+	{
+		"date": "0 to 3",
+		"event": "After the Battle of Yavin",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "0",
+		"event": "Chewbacca returns to Kashyyyk for the Life Day celebration",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "1",
+		"event": "Danger on Mimban",
+		"description": "While traveling to Circarpous IV, Luke and Leia crash on the swampy world of Mimban, where they discover the mysterious Force-enhancing Kaiburr crystal. Darth Vader corners the pair, but Luke attacks the Dark Lord. During the ensuing battle, Vader loses his arm, allowing Luke and Leia to escape.",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "1 to 3",
+		"event": "Exploits of the Rebel Heroes",
+		"description": "Luke, Leia, Han, Chewbacca, and the droids are entrusted with numerous missions between the Battle of Yavin and the Battle of Hoth. During this time, Han is almost captured by bounty hunters on Ord Mantell and Luke nearly loses his life on the ice planet of Hoth.",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "1",
+		"event": "Imperial forces bomb Yavin 4",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "1",
+		"event": "Jan Dodonna is captured on Yavin 4",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "1",
+		"event": "Rebels begin construction on Hoth’s Echo Base",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "2",
+		"event": "Luke Skywalker becomes a Rebel Commander",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "2",
+		"event": "Darth Vader’s flagship, the <i>Executor</i>, is completed",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "3",
+		"event": "Rebels complete Echo Base",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "3",
+		"event": "Vader intensifies his search for the Rebels",
+		"period": "The Galactic Civil War: After the Battle of Yavin"
+	},
+	{
+		"date": "3",
+		"event": "The Battle of Hoth",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Wampa Attack",
+		"description": "While scouting the frozen wastes of Hoth, Luke is brutally ambushed by a ferocious wampa ice creature. The young Jedi regains consciousness in the creature's ice cave and uses the Force to reclaim his lightsaber. After freeing himself, the wounded Rebel seriously injures the wampa, then flees into a snowstorm.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Luke's Vision",
+		"description": "An exhausted Luke finally succumbs to the elements, but as he falls into the snow he his visited by the ghostly form of Obi-Wan Kenobi. The phantom instructs Luke to visit the planet Dagobah, where he will learn the ways of the Force from Yoda.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Han Solo Rescues Luke",
+		"description": "Despite a raging storm, Han sets off from Echo Base to find his missing friend. As night descends, he comes across Luke's body. In order to save Skywalker, Han disembowels his tauntaun, which has died from exposure to the elements. He then shoves Luke into the creature's warm stomach until a shelter can be erected. After the sun rises, snowspeeders locate Solo and Skywalker. Luke is rushed back to Echo Base, where medical droids manage to heal his wounds.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Probot Destroyed",
+		"description": "The Rebels locate an Imperial probe droid wandering Hoth. Han Solo and Chewbacca destroy the probot, but not before it manages to transmit Echo Base's location to Darth Vader's Star Destroyer.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "The Battle of Hoth",
+		"description": "Darth Vader orders the full invasion of Hoth. However, due to Admiral Ozzel's ineptitude, the Rebels realize that the Imperials are quickly approaching and raise their planetary shield. After murdering Ozzel, Vader places his faith in the ruthless General Veers to lead a ground assault. During the ensuing battle, which pits Rebel snowspeeders against the virtually unstoppable Imperial AT-ATs, numerous brave Rebel pilots are killed. Casualties of the conflict include Dack Ralter, Zev Senseca, and General Veers. However, the bulk of the Alliance forces, including Han and Leia, manage to escape. As the battle begins to subside, Luke boards his X-wing and sets his course for Dagobah.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Entering the Hoth Asteroid Belt",
+		"description": "The <i>Millennium Falcon</i>, carrying Leia, Chewbacca, Han, and Threepio manages to elude Imperial pursuit by diving headlong into an asteroid field. The ship lands inside one of the larger asteroids. It remains hidden while Vader’s forces search in vain.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Darth Vader's Plot",
+		"description": "Together, Emperor Palpatine and Darth Vader scheme to capture Luke and convert him to the dark side. With Luke in their thrall, the two villains believe they will be able to crush the Rebel Alliance and finally take complete control of the universe. In his quest to find Luke, Vader plans to draw the boy from hiding by capturing and torturing Luke's closest friends. To this end, he hires the bounty hunters Boba Fett, Dengar, Zuckuss, 4-LOM, Bossk, and IG-88 to locate the <i>Millennium Falcon</i>.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Luke Meets Yoda",
+		"description": "After crashing on Dagobah, Luke and Artoo encounter a strange little creature who claims to know Yoda. Eventually, Luke discovers that the being is, in fact, the Jedi Master he seeks. After much discussion with the spirit of Obi-Wan, Yoda agrees to teach Luke the ways of the Force.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Han Solo's Gambit",
+		"description": "After being forced from hiding by a space slug, the <i>Millennium Falcon</i> is again pursued by a fleet of Imperial Star Destroyers. However, Han Solo eludes capture once again by landing his starship on the backside of a Destroyer's bridge. Captain Needa apologizes to Vader for losing the ship, but is killed by the Dark Lord.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Failure at the Cave of Evil",
+		"description": "During his arduous training, Luke enters a dank tree hollow infused with the power of the dark side. In the cave, he confronts a mirage of Darth Vader. Luke strikes the illusion, severing the ghostly Vader's head. However, the phantom's helmet splits open, revealing the face of Luke Skywalker beneath.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Arrival on Cloud City",
+		"description": "The <i>Millennium Falcon</i> slips away from the Imperial fleet and flees toward Cloud City, where Han Solo hopes to secure the aid of his old friend, Lando Calrissian. Unfortunately, Boba Fett follows the starship and notifies Vader of the <i>Falcon</i>’s ultimate destination. By the time the Rebels arrive, the Imperials are well-prepared to capture the group. Only Threepio becomes aware of the Imperial presence, but he is shot and dismembered before he can notify his allies.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Lando's Betrayal",
+		"description": "Shortly after Chewbacca discovers Threepio's mangled body, Lando leads the Rebels directly into Vader's grasp. He commits this treachery to protect the citizens of Cloud City from Imperial rule, but when Vader tortures the captives, Lando begins to realize his grave error. Meanwhile, on Dagobah, Luke senses the anguish of his friends and vows to rescue them, no matter the cost.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Han's Fate",
+		"description": "In order to transport Luke safely to the Emperor, Vader devises a plan to encase Skywalker in carbonite. However, he must test the process first to ensure that Luke will survive. Thus, he orders Lando to subject Han to the carbon-freezing chamber. After an emotional farewell, in which Leia confesses her love for the smuggler, Han is lowered into a deep mechanical pit. He survives the process, but his frozen body is given to Boba Fett. Luke and Artoo arrive on Cloud City soon after.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Rebels Escape",
+		"description": "After admitting the extent of his betrayal, Lando manages to free Leia, Chewbacca, and Threepio from Imperial stormtroopers. The group is soon joined by Artoo, who was recently separated from Luke. They frantically pursue Boba Fett, but the bounty hunter escapes Cloud City, intent on delivering Han to Jabba the Hutt on Tatooine. Lando then leads his uneasy allies to the <i>Millennium Falcon</i>, which lifts off into the clouds under a hail of Imperial laser fire.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Luke Confronts Vader",
+		"description": "Deep in the bowels of Cloud City, Luke and Vader finally clash. The terrible duel leads the pair onto a dangerous gangplank high above the mining colony’s reactor shaft. A stronger, faster Vader severs Luke’s hand, then reveals that he is Anakin Skywalker, Luke’s father. Rather than join the evil villain, Luke throws himself into the reactor shaft. He nearly perishes when he is expelled from the bottom of Cloud City. Luke manages to grab hold of a weather vane and mentally reaches out to Leia. Realizing that she must save Luke, Leia orders Chewbacca to return to Cloud City. Once the group locates Luke, Lando pulls him to safety.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3",
+		"event": "Reunion with the Rebel Fleet",
+		"description": "The <i>Millennium Falcon</i> rejoins the Rebel Fleet. Luke’s injuries are healed and the medical droid 2-1B provides him with a prosthetic hand. Lando and Chewbacca embark on a quest to find and rescue Han Solo from the clutches of Boba Fett and Jabba the Hutt.",
+		"period": "The Galactic Civil War: The Battle of Hoth"
+	},
+	{
+		"date": "3 to 4",
+		"event": "After the Battle of Hoth",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3 to 3.5",
+		"event": "Luke builds a new lightsaber",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3 to 3.5",
+		"event": "The Black Sun Affair",
+		"description": "Princess Leia vows to uncover a plot to kill Luke Skywalker. With Chewbacca at her side, she disguises herself as the bounty hunter Boushh and infiltrates the criminal organization known as Black Sun in search of information that might lead to Luke’s new enemy. Once within the organization, she encounters the vile Prince Xizor and is captured. Fortunately, Luke, Lando, Chewbacca, Dash Rendar, and several Rebel heroes rescue Leia from Xizor's grasp.",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3 to 3.5",
+		"event": "Destruction of Prince Xizor's Skyhook",
+		"description": "Enraged that his own plans have been compromised by Xizor's meddling, Darth Vader orders the annihilation of Black Sun. Xizor's orbital skyhook is completely destroyed by Vader's wrath. The criminal mastermind is believed dead.",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3 to 3.5",
+		"event": "Alleged Death of Dash Rendar",
+		"description": "While attempting to escape the conflagration caused by the destruction of Xizor's skyhook, Dash Rendar's <i>Outrider</i> is hit by debris and seemingly explodes. There are no indications that the smuggler survived.",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3.5 to 4",
+		"event": "Rescue of the Towani Family",
+		"description": "Jeremitt and Catarine Towani, along with their children Cindel and Mace, crash on the forest moon of Endor. Soon after, the elder Towanis are captured by the Borra, a hideous beast controlled by the malignant giant, Gorax. Cindel and Mace meet Chief Chirpa’s Ewok tribe, who agree to help them save their parents. After facing numerous dangers, Gorax is killed and the Towani family is reunited.",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3.5 to 4",
+		"event": "Death of King Terak",
+		"description": "On Endor, Cindel Towani's parents and brother are murdered by King Terak, Queen Charal, and the Marauders. Terak captures Cindel several times, but Wicket, an old hermit named Noa, and the speedy alien Teek repeatedly rescue her. Ultimately, King Terak is turned to stone when Wicket shatters the villain's enchanted ring.",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3.5 to 4",
+		"event": "Boba Fett delivers Han Solo to Jabba the Hutt",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3.5 to 4",
+		"event": "Lando joins Jabba's court as Tamtel Skreej",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "3.5 to 4",
+		"event": "The Imperials begin constructing a second Death Star",
+		"period": "The Galactic Civil War: After the Battle of Hoth"
+	},
+	{
+		"date": "4",
+		"event": "The Battle of Endor",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Rise of the Second Death Star",
+		"description": "Under Vader's supervision, Moff Jerjerrod endeavors to complete the much larger, more powerful second Death Star. The space station is to be used in the Emperor's grand plot to trap and finally defeat the Rebel Alliance forever.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Droids Arrive at Jabba’s Palace",
+		"description": "As part of his master plan to rescue Han Solo, Luke Skywalker sends Artoo and Threepio to Jabba's palace, where they present themselves as gifts to the crime lord. Threepio becomes Jabba's interpreter, while Artoo is relegated to serving drinks to the Hutt's raucous court.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Oola's Death",
+		"description": "After performing to the music of the Max Rebo Band, Jabba's slave, Oola, refuses to respond to her master's amorous advances. As punishment, she is dropped into the rancor pit, where she is devoured by the savage carnivore.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Capture of Chewbacca",
+		"description": "The bounty hunter Boushh enters Jabba's palace with Chewbacca as his captive. When he is denied his full reward for the Wookiee's capture, Boushh threatens to activate a thermal detonator and destroy Jabba's entire entourage. Impressed by the bounty hunter's ruthlessness, Jabba presents a reasonable reward and imprisons Chewbacca.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Han Solo Released",
+		"description": "Leia removes her disguise as Boushh and manages to free Solo from his carbonite prison. However, Jabba the Hutt discovers this treachery and takes both Leia and Han captive. While Han is placed into a cell with Chewie, Leia is forced to become Jabba's new slave.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Luke Battles the Rancor",
+		"description": "Almost a true Jedi Knight, Luke Skywalker uses his Force powers to gain an audience with Jabba. He demands that the Hutt release his friends, but Jabba springs a trap that sends Skywalker into the rancor pit. Luke eludes the rancor's jaws and crushes the beast beneath a huge, metal door. As punishment for this murder, Luke and his friends are sentenced to death in the maw of the voracious Sarlacc.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "The Battle at the Great Pit of Carkoon",
+		"description": "With Artoo's help, Luke acquires his lightsaber moments before he is pushed into the mouth of the Sarlacc. Meanwhile, Lando throws off his disguise and a huge battle begins on Jabba's desert skiffs. Boba Fett joins the fray, but is accidentally knocked into the Sarlacc by a blind Han Solo. In the chaos, Leia strangles Jabba. Soon after, she and Luke destroy the crime lord's sail barge, killing most of his court. Finally reunited, the Rebels depart Tatooine.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Death of Yoda",
+		"description": "Luke returns to Dagobah, where he spends a few moments with Yoda before the Jedi Master becomes one with the Force. Luke is then visited by the spirit of Obi-Wan Kenobi, who confirms that Vader is, in fact, Luke's father. He also reveals that Leia is Luke's sister.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Planning the Battle of Endor",
+		"description": "The Emperor arrives on the second Death Star, anticipating the eventual Rebel attack and his victory over the Alliance. Meanwhile, the Rebels begin plotting the destruction of the space station, unwittingly using data that the Emperor has planted with his enemies. Han Solo volunteers to lead a strike team to the forest moon of Endor in order to destroy a shield generator protecting the Death Star, while Lando and Admiral Ackbar join forces to lead the Rebel fleet against the space station.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Arrival on Endor",
+		"description": "Han Solo's team, which includes Luke, Leia, Chewbacca, and the droids, uses a stolen Imperial shuttle to land on Endor. They almost immediately encounter Imperial troops and Luke and Leia embark on a dangerous speeder bike chase through the forest. The pair are separated, but Luke manages to rejoin Han and together they begin searching for Leia.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Ewoks Join the Rebellion",
+		"description": "Leia is befriended by the Ewok Wicket, who introduces her to his tribe. Meanwhile, Han, Luke, Chewbacca, and the droids are captured by an Ewok hunting party. The Ewoks mistake Threepio for their god and plan to sacrifice Luke, Chewie, and Han to the golden droid. Luke uses the Force to convince the furry creatures that Threepio is, indeed, a deity. The protocol droid then orders the Ewoks to release his friends. Once they understand the plight of the Rebels, the Ewoks agree to join their cause.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Luke Surrenders",
+		"description": "Intent on confronting his father, Luke delivers himself into the hands of Imperial troops. Before he leaves the Ewok village, however, he confides in Leia and admits that he is her brother. Vader takes Luke into custody and transports him to the Emperor aboard the second Death Star.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "The Battle of Endor",
+		"description": "The Rebel fleet exits hyperspace near the Death Star even as Han's strike team prepares to attack the shield generator. Unfortunately, the Emperor has led the Rebels into a trap. Han and his troops are captured by Imperial forces, while the Death Star proves fully operational. However, the Ewoks free the Rebels, turning the tide of the battle, and Han manages to accomplish his mission. In space, the Alliance strikes a severe blow as well when several brave A-wing pilots join forces to destroy the Super Star Destroyer, <i>Executor</i>.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Duel Between Father and Son",
+		"description": "Goaded by the Emperor, Luke and his father engage in another heated combat. During the course of the long battle, Luke cuts through Vader’s arm, but resists succumbing to the dark side of the Force and refuses to murder his enemy. Enraged, the Emperor vows to kill the young Jedi.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Rebirth of Anakin Skywalker",
+		"description": "While the Battle of Endor rages outside his citadel, the Emperor attacks Luke with painful blue Force lightning. Near death, Luke pleads for his father’s help. Finally, the small portion of Anakin Skywalker that remains buried within Darth Vader emerges. Vader grabs the Emperor and hurls him into the Death Star's reactor core, where the despot perishes. However, the effort of destroying the Emperor has taken a heavy toll on Vader and he hovers on the brink of death. At Vader's request, Luke removes the Dark Lord's helmet and looks upon his father's face for the first—and last—time. Soon after, Vader dies.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4",
+		"event": "Fall of the Empire",
+		"description": "Once the Death Star's deflector shield has been deactivated, Lando pilots the <i>Millennium Falcon</i> into the heart of the space station and bombards its reactor core. The resulting chain reaction consumes the Death Star, killing all aboard. Fortunately, Luke escapes the conflagration. Within hours, the entire galaxy becomes aware of the Empire's collapse. Celebrations begin on all those worlds oppressed by Imperial forces. The Galactic Civil War is finally at an end.",
+		"period": "The Galactic Civil War: The Battle of Endor"
+	},
+	{
+		"date": "4 to 24",
+		"event": "Era of the New Republic",
+		"period": "Era of the New Republic"
+	},
+	{
+		"date": "4 to 11",
+		"event": "Early Conflicts",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Declaration of a New Republic",
+		"description": "A month after the Battle of Endor, the surviving leaders of the Rebel Alliance draft a document that sets forth the principles, goals, and ideals of a new, more benevolent Galactic Republic. The Declaration also establishes a provisional New Republic Council boasting such members as Princess Leia, Mon Mothma, and Admiral Ackbar.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Truce at Bakura",
+		"description": "The New Republic rushes to the aid of Bakura, an Imperial outpost suddenly plagued by the reptilian Ssi-ruuk. Through the combined efforts of Han Solo, Luke Skywalker, Princess Leia, and other Alliance heroes, peace is restored.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Exploits of Rogue Squadron",
+		"description": "With Imperial forces scattered across the galaxy, Wedge Antilles leads the renowned X-wing fighter group, dubbed Rogue Squadron, on dozens of dangerous missions in all corners of the universe. Rogue Squadron manages to thwart a number of nascent Imperial plots, defend New Republic interests, and destroy a horde of TIE fighters during their tenure.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Boba Fett escapes the Sarlacc and resumes his career",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Kyle Katarn becomes a Jedi Knight",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "4",
+		"event": "Lando Calrissian regains Cloud City",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "5",
+		"event": "Trioculus Affair",
+		"description": "An evil mutant known as Trioculus, who claims to be the Emperor's son, attempts to gain control over the remaining Imperial forces. He is thwarted by the Heroes of Yavin, a Jedi Prince named Ken, and the Emperor's real son, Triclops. Meanwhile, Zorba the Hutt, Jabba's father, plots to kill Leia. He steals Cloud City from Lando and makes several attempts on Leia's life, but he eventually runs afoul of Trioculus.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "6.5 to 7.5",
+		"event": "Continued Adventures of Rogue Squadron",
+		"description": "Still commanded by Wedge Antilles, Rogue Squadron assaults the Imperial stronghold on Black Moon, infiltrates Coruscant, searches for a cure to the Krytos virus, becomes embroiled in the Bacta War, and serves the New Republic in countless battles. As the unit begins taking on more covert assignments, Wedge renames the group Wraith Squadron, a designation used only when the pilots conduct espionage missions.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "8",
+		"event": "Princess Leia is briefly courted by Prince Isolder",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "8",
+		"event": "Leia marries Han Solo",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "9",
+		"event": "Resurgence of the Empire",
+		"description": "Under the leadership of Grand Admiral Thrawn, the Empire rises to power again. Thrawn increases his power by joining forces with an insane Dark Jedi clone, Joruus C’Baoth. Together they launch numerous plots to destroy the New Republic and its leaders. However, after securing the aid of the vicious Noghri, the fleet of Garm Bel Iblis, and a group of smugglers led by Talon Karrde, the New Republic defeats Thrawn. The Grand Admiral is betrayed and seemingly murdered by his Noghri bodyguard, Rukh.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "9",
+		"event": "Jacen and Jaina Solo are born to Han and Leia",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "10",
+		"event": "Emperor Reborn",
+		"description": "In a secret cloning facility, Emperor Palpatine is resurrected in the body of a clone. He captures Luke Skywalker and prepares to crush the New Republic using his new World Devastators. Although Luke almost succumbs to the dark side, his friends rally to his aid and destroy the Emperor. Artoo is instrumental in diverting the World Devastators by transmitting a secret code that disables the machines.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "10",
+		"event": "Palpatine’s Second Return",
+		"description": "Yet again, the Emperor rises in a clone body and makes bold attempts to kidnap first Luke and then the Solo children. He also devises the dreaded Galaxy Gun, a weapon capable of vaporizing an entire system. Han Solo kills the Emperor's clone body, while the Jedi Knight Empatojayos Brand allows the despot's spirit to invade him. When Brand dies, the threat of the Emperor vanishes forever. Soon after, R2-D2 directs the Imperial flagship, <i>Eclipse II</i>, on a collision course with the Galaxy Gun. Both are destroyed, as is the Emperor's former throne world, Byss.",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "10",
+		"event": "Anakin Solo is born to Han and Leia",
+		"period": "Era of the New Republic: Early Conflicts"
+	},
+	{
+		"date": "11 to 17",
+		"event": "Age of Galactic Unrest",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "11",
+		"event": "Jedi Knights Revived",
+		"description": "Luke Skywalker begins his search for beings sensitive to the ways of the Force in order to train a new order of Jedi Knights. He establishes a training facility on Yavin 4, but the Jedi Academy is tormented by the spirit of the dark Jedi Exar Kun. After being corrupted by Kun, one of Luke’s students, Kyp Durron, steals another Imperial superweapon known as the Sun Crusher. While Kyp embarks down the path of evil, Luke’s remaining students band together and vanquish Exar Kun. Kyp is then rescued from the dark side by Luke and his allies. The budding Jedi uses the Sun Crusher to defeat Admiral Daala's plot to overthrow the New Republic.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "11",
+		"event": "Mon Mothma survives an assassination attempt",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "12",
+		"event": "Leia and Han search for the lost Children of the Jedi",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "12",
+		"event": "<i>Eye of Palpatine</i>",
+		"description": "Luke and two of his Jedi apprentices are captured by the automated vessel known as the <i>Eye of Palpatine</i>. They encounter the spirit of the Jedi Knight named Callista, and together the group destroys the starship. Luke begins to fall in love with Callista, and she agrees to join him on Yavin 4.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "13",
+		"event": "Darksaber Project",
+		"description": "The New Republic faces the threat of Durga the Hutt and his terrible Darksaber, a recreation of the original Death Star's superlaser. The weapon is eventually demolished by Republic forces in the Hoth asteroid belt. Unfortunately, Crix Madine is killed during the mission.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "13",
+		"event": "Callista disappears",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "13",
+		"event": "Adventure on Renat Chorios",
+		"description": "While searching for a cure to a mysterious plague, Leia discovers Callista among a fanatical religious sect on the backwater world of Renat Chorios. Luke arrives as well, and together they discover the planet’s secrets and contain the plague. Callista, however, decides to part ways with Luke.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "14",
+		"event": "Abduction of the Solo Children",
+		"description": "Anakin, Jacen, and Jaina Solo are kidnapped by the Imperial warlord Hethrir. Chewbacca, Leia, and Artoo set out on a long, but ultimately successful mission to rescue the children. Meanwhile, Luke and Han investigate a strange crystal star that has created a great disturbance in the Force. Their quest leads them to Waru, a bizarre alien being that feeds on the energy of others.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "16",
+		"event": "Yevethan Crisis",
+		"description": "The xenophobic species known as the Yevetha, who are intent on wiping out all other species, threaten the New Republic. Han Solo is captured by the aliens, but is later rescued by a Wookiee strike force led by Chewbacca. When the long war against the Yevetha finally ends, the New Republic heroes save Lando, Lobot, and the droids, who have spent most of the Crisis trapped aboard the strange Teljkon vagabond, a ghost ship that mysteriously vanishes into hyperspace whenever it is approached.",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "17",
+		"event": "Luke's former student, Kueller, succumbs to the dark side",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "17",
+		"event": "Leia defeats an Imperial plot to turn the New Republic against Han Solo",
+		"period": "Era of the New Republic: Age of Galactic Unrest"
+	},
+	{
+		"date": "18 to 24",
+		"event": "Rise of Young Jedi Knights",
+		"period": "Era of the New Republic: Rise of the Young Jedi Knights"
+	},
+	{
+		"date": "19",
+		"event": "Return of Grand Admiral Thrawn",
+		"description": "The New Republic leaders are shocked to discover that Thrawn has resurfaced. Joined by Imperial war-mongers Moff Disra, Major Tierce, and Gillad Pellaeon, Thrawn once again becomes a major enemy of galactic peace. Although his plots are continually foiled by the Republic heroes, his mere existence continues to threaten the entire universe.",
+		"period": "Era of the New Republic: Rise of the Young Jedi Knights"
+	},
+	{
+		"date": "22",
+		"event": "Anakin’s Early Exploits",
+		"description": "As a student at Luke Skywalker's Jedi Academy on Yavin 4, Anakin Solo begins to develop his control over the Force. With his friend Tahiri, Anakin embarks on numerous adventures that take the pair to Yavin 8, Tatooine, Dagobah, and even Vader's Bast fortress. He eventually matures into a powerful young Jedi and joins his siblings on many of their missions.",
+		"period": "Era of the New Republic: Rise of the Young Jedi Knights"
+	},
+	{
+		"date": "23 to 24",
+		"event": "Adventures of the Young Jedi Knights",
+		"description": "The students of Luke Skywalker’s Jedi Academy—Jacen, Jaina, Anakin, Lowbacca, and Tenel Ka—begin the long road toward becoming Jedi Knights. In the course of their training, they must build their own lightsabers, confront a fallen friend, and elude numerous enemies, including Boba Fett. The struggle is difficult, but ultimately they master the Force and become the next generation of powerful Jedi Knights.",
+		"period": "Era of the New Republic: Rise of the Young Jedi Knights"
+	},
+	{
+		"date": "18",
+		"event": "Corellian Conflict",
+		"description": "The Corellian System is brought to the brink of civil war by Han Solo's evil cousin, Thracken Sal-Solo, who strives for ultimate power as the Emperor of a new Imperial regime. He imprisons Han, rallies the violent Human League toward revolution, and engages the Bakuran fleet. Ultimately, he is captured. The conflict culminates in a dramatic assault on Centerpoint Station.",
+		"period": "Era of the New Republic: Rise of the Young Jedi Knights"
+	}
+]
