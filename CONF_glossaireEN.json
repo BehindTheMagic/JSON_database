@@ -1,0 +1,66 @@
+{
+	"inputStruct": "{\n\t\"name\": data[1],\n\t\"originalName\": data[2],\n\t\"description\": data[3],\n\t\"picture\": SKIP('picture', data[4].split(\".\").map( function(item, index){ return index == 0 ? item.toUpperCase() : item }).join(\".\"), data[4] === ''),\n\t\"category\": SKIP('category', data[6], ''),\n\t\"appearance\": SKIP('appearance', data[7].split(\",\").map( item => item.trim() ).filter( item => item ), data[7] === ''),\n\t\"topic\": SKIP('topic', data[8], '')\n}",
+	"commentaires": "Configuration incompatible avec glossaireFR car topic est différent",
+	"rules": [
+		{
+			"isChecked": true,
+			"jsonkey": "description",
+			"regexp": "\\r\\n\\r\\n",
+			"replace": "<br>"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "description",
+			"regexp": "\\[(.*?)\\]",
+			"replace": "<i>$1</i>"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "Go to Topic\\r\\n(.*)\\\\.*",
+			"replace": "$1"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "(.*)",
+			"replace": "$1/"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "\\\\",
+			"replace": "/"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "//",
+			"replace": "/"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "chars",
+			"replace": "characters"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "tech",
+			"replace": "technology"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "topic",
+			"regexp": "locale",
+			"replace": "locations"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "description",
+			"regexp": "\\r\\n",
+			"replace": ""
+		}
+	]
+}

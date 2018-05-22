@@ -1,0 +1,24 @@
+{
+	"inputStruct": "{\n\t\"date\": DROP(data[1].toString(), \"\"),\n\t\"event\": DROP(data[2], data[2] == \"\"),\n\t\"description\": SKIP(\"description\", data[3], \"\"),\n\t\"period\": data[4]\n}",
+	"commentaires": "passage en italique cassé",
+	"rules": [
+		{
+			"isChecked": false,
+			"jsonkey": "*",
+			"regexp": "\\[(.*?)\\]",
+			"replace": "<i>$1</i>"
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "event",
+			"regexp": "\\>\\ ",
+			"replace": ""
+		},
+		{
+			"isChecked": true,
+			"jsonkey": "event",
+			"regexp": "\\r\\n",
+			"replace": " "
+		}
+	]
+}
