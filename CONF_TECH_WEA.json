@@ -1,0 +1,12 @@
+{
+	"inputStruct": "{\n\t\"image\": data[1],\n\t\"name\": data[2],\n\t\"short_description\": data[3],\n\t\"full_name\": data[4],\n\t\"company\": data[5],\n\t\"price\": data[7],\n\t\"range\": data[8],\n\t\"type_description\": data[9]\n}",
+	"commentaires": "9 premiers champs : OK ; le reste à voir ce que c'est",
+	"rules": [
+		{
+			"isChecked": false,
+			"jsonkey": "ship",
+			"regexp": "\\[(.*?)\\]",
+			"replace": "<i>$1</i>"
+		}
+	]
+}

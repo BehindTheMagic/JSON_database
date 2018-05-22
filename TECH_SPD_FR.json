@@ -1,0 +1,87 @@
+[
+	{
+		"ship": "Vaisseau",
+		"sublight_speed": "Vitesse subluminique",
+		"hyperdrive_speed": "Hyperpropulsion"
+	},
+	{
+		"ship": "Transporteur Rebelle",
+		"sublight_speed": "20 MGLT",
+		"hyperdrive_speed": "Classe 4"
+	},
+	{
+		"ship": "Croiseur Rebelle",
+		"sublight_speed": "40 MGLT",
+		"hyperdrive_speed": "Classe 2"
+	},
+	{
+		"ship": "Chasseur B-wing",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Classe 2"
+	},
+	{
+		"ship": "Anti-blocus Rebelle",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Classe 2"
+	},
+	{
+		"ship": "Croiseur Mon Calamari",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Classe 1"
+	},
+	{
+		"ship": "<i>Outrider</i>",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Classe .75"
+	},
+	{
+		"ship": "Chasseur Y-wing",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Classe 1"
+	},
+	{
+		"ship": "Chasseur X-wing",
+		"sublight_speed": "80 MGLT",
+		"hyperdrive_speed": "Classe 1"
+	},
+	{
+		"ship": "<i>Faucon Millenium</i>",
+		"sublight_speed": "80 MGLT",
+		"hyperdrive_speed": "Classe .5"
+	},
+	{
+		"ship": "Chasseur A-wing",
+		"sublight_speed": "120 MGLT",
+		"hyperdrive_speed": "Classe 1"
+	},
+	{
+		"ship": "Destroyer stellaire Impérial",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Classe 2"
+	},
+	{
+		"ship": "Bombardier TIE",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Non"
+	},
+	{
+		"ship": "<i>Esclave I</i>",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Classe 1"
+	},
+	{
+		"ship": "Chasseur TIE",
+		"sublight_speed": "100 MGLT",
+		"hyperdrive_speed": "Non"
+	},
+	{
+		"ship": "TIE avancé x1",
+		"sublight_speed": "105 MGLT",
+		"hyperdrive_speed": "Classe 4"
+	},
+	{
+		"ship": "Intercepteur TIE",
+		"sublight_speed": "110 MGLT",
+		"hyperdrive_speed": "Non"
+	}
+]

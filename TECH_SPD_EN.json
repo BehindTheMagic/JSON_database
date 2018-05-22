@@ -1,0 +1,87 @@
+[
+	{
+		"ship": "Ship",
+		"sublight_speed": "Sublight Speed",
+		"hyperdrive_speed": "Hyperdrive Speed"
+	},
+	{
+		"ship": "Rebel Transport",
+		"sublight_speed": "20 MGLT",
+		"hyperdrive_speed": "Class 4"
+	},
+	{
+		"ship": "Rebel Cruiser",
+		"sublight_speed": "40 MGLT",
+		"hyperdrive_speed": "Class 2"
+	},
+	{
+		"ship": "B-wing Starfighter",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Class 2"
+	},
+	{
+		"ship": "Rebel Blockade Runner",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Class 2"
+	},
+	{
+		"ship": "Mon Calamari Star Cruiser",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Class 1"
+	},
+	{
+		"ship": "<i>Outrider</i>",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Class .75"
+	},
+	{
+		"ship": "Y-wing Starfighter",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Class 1"
+	},
+	{
+		"ship": "X-wing Starfighter",
+		"sublight_speed": "80 MGLT",
+		"hyperdrive_speed": "Class 1"
+	},
+	{
+		"ship": "<i>Millennium Falcon</i>",
+		"sublight_speed": "80 MGLT",
+		"hyperdrive_speed": "Class .5"
+	},
+	{
+		"ship": "A-wing Starfighter",
+		"sublight_speed": "120 MGLT",
+		"hyperdrive_speed": "Class 1"
+	},
+	{
+		"ship": "Imperial Star Destroyer",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "Class 2"
+	},
+	{
+		"ship": "TIE Bomber",
+		"sublight_speed": "60 MGLT",
+		"hyperdrive_speed": "None"
+	},
+	{
+		"ship": "<i>Slave I</i>",
+		"sublight_speed": "70 MGLT",
+		"hyperdrive_speed": "Class 1"
+	},
+	{
+		"ship": "TIE Fighter",
+		"sublight_speed": "100 MGLT",
+		"hyperdrive_speed": "None"
+	},
+	{
+		"ship": "TIE Advanced x1",
+		"sublight_speed": "105 MGLT",
+		"hyperdrive_speed": "Class 4"
+	},
+	{
+		"ship": "TIE Interceptor",
+		"sublight_speed": "110 MGLT",
+		"hyperdrive_speed": "None"
+	}
+]

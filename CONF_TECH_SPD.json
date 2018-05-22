@@ -1,0 +1,12 @@
+{
+	"inputStruct": "{\n\t\"ship\": data[1],\n\t\"sublight_speed\": data[2],\n\t\"hyperdrive_speed\": data[3]\n}",
+	"commentaires": "ship, sublight_speed, hyperdrive_speed, regex sur les ship",
+	"rules": [
+		{
+			"isChecked": true,
+			"jsonkey": "ship",
+			"regexp": "\\[(.*?)\\]",
+			"replace": "<i>$1</i>"
+		}
+	]
+}

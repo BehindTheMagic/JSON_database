@@ -1,0 +1,12 @@
+{
+	"inputStruct": "{\n\t\"image\": data[1],\n\t\"name\": data[2],\n\t\"short_description\": data[3],\n\t\"full_name\": data[4],\n\t\"length\": data[5],\n\t\"speed\": data[6],\n\t\"capacity\": data[7],\n\t\"armament\": data[8],\n\t\"shielding\": data[9], \n\t\"long_description\": data[10]\n}",
+	"commentaires": "10 premiers champs : OK ; le reste à voir ce que c'est",
+	"rules": [
+		{
+			"isChecked": false,
+			"jsonkey": "ship",
+			"regexp": "\\[(.*?)\\]",
+			"replace": "<i>$1</i>"
+		}
+	]
+}
